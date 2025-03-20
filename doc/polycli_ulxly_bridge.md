@@ -4,10 +4,11 @@
 
 ## Table of Contents
 
-- [Description](#description)
-- [Usage](#usage)
-- [Flags](#flags)
-- [See Also](#see-also)
+- [`polycli ulxly  bridge`](#polycli-ulxly--bridge)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Flags](#flags)
+  - [See also](#see-also)
 
 ## Description
 
@@ -51,10 +52,10 @@ The command also inherits flags from parent commands.
 
 ## See also
 
-- [polycli ulxly ](polycli_ulxly_.md) - 
-- [polycli ulxly  bridge asset](polycli_ulxly__bridge_asset.md) - Move ETH or an ERC20 between to chains
+- [polycli ulxly ](polycli_ulxly.md) - 
+- [polycli ulxly  bridge asset](polycli_ulxly_bridge_asset.md) - Move ETH or an ERC20 between to chains
 
-- [polycli ulxly  bridge message](polycli_ulxly__bridge_message.md) - Send some ETH along with data from one chain to another chain
+- [polycli ulxly  bridge message](polycli_ulxly_bridge_message.md) - Send some ETH along with data from one chain to another chain
 
-- [polycli ulxly  bridge weth](polycli_ulxly__bridge_weth.md) - For L2's that use a gas token, use this to transfer WETH to another chain
+- [polycli ulxly  bridge weth](polycli_ulxly_bridge_weth.md) - For L2's that use a gas token, use this to transfer WETH to another chain
 
